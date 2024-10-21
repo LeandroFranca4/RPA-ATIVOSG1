@@ -27,7 +27,7 @@ pyautogui.press('enter')
 sleep(1)
 
 
-pyautogui.click(544,185)
+pyautogui.click(583,186)
 sleep(2)
 
 hoje=(pyautogui.locateCenterOnScreen('hoje.png'))
